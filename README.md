@@ -26,7 +26,7 @@ These algorithms are frequently used in job interviews to test a candidate's ski
 | Exercises (Column 1)                                                         | Exercises (Column 2)     |
 | ---------------------------------------------------------------------------- | ------------------------ |
 | [Find the Symmetric Difference](algorithms/find-the-symmetric-difference.js) | Implement Selection Sort |
-| Inventory Update                                                             | Implement Insertion Sort |
+| [Inventory Update](algorithms/inventory-update.js)                           | Implement Insertion Sort |
 | No Repeats Please                                                            | Implement Quick Sort     |
 | Pairwise                                                                     | Implement Merge Sort     |
 | Implement Bubble Sort                                                        | Implement Binary Search  |
