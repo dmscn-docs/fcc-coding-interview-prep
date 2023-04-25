@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/@phosphor-icons/web@2.0.3"></script>
+
+    <link rel="stylesheet" href="./css/global.css" />
+    <script src="./js/index.js" defer></script>
+
+    <title>Wikipedia Viewer</title>
+  </head>
+  <body class="min-h-screen grid place-items-center bg-neutral-900">
+    <main class="m-8 flex flex-col justify-items-center gap-y-5 text-white">
+      <form class="grid gap-y-5" id="form">
+        <h1 class="text-3xl font-medium">Wikipedia Viewer</h1>
+
+        <span
+          class="group pr-3 flex gap-x-2.5 justify-center bg-neutral-800 border border-neutral-600 rounded overflow-hidden hover:border-neutral-500 active:bg-neutral-700 lg:max-w-max"
+        >
+          <input
+            id="input-search"
+            class="w-full flex-1 p-3 border-r border-r-neutral-600 bg-neutral-900 outline-none placeholder:text-neutral-600 hover:border-neutral-500 hover:placeholder:text-neutral-500"
+            type="text"
+            placeholder="Search"
+          />
+          <button id="button-search">
+            <i
+              class="ph ph-magnifying-glass text-2xl text-neutral-600 group-hover:text-neutral-500"
+            ></i>
+          </button>
+        </span>
+
+        <a
+          href="https://en.wikipedia.org/wiki/Special:Random"
+          class="flex gap-x-2 items-center text-sky-600"
+        >
+          <p class="hover:underline">Random Article</p>
+          <i class="ph ph-globe"></i>
+        </a>
+      </form>
+
+      <section
+        id="content"
+        class="flex flex-col gap-4 lg:max-w-2xl lg:flex-wrap lg:flex-row"
+      ></section>
+    </main>
+
+    <footer
+      class="fixed right-6 bottom-6 p-2 bg-neutral-900 border border-neutral-500 rounded"
+    >
+      <a
+        class="text-sky-600 text-sm"
+        href="https://github.com/wesleydmscn"
+        target="_blank"
+        >@wesleydmscn 😆
+      </a>
+    </footer>
+  </body>
+</html>
