@@ -13,8 +13,6 @@ function renderArticles(list) {
   list.map((item) => {
     const { title, pageid, snippet } = item;
 
-    console.log(item);
-
     DOM.innerHTML += `
     <a
       href="https://en.wikipedia.org/wiki/?curid=${pageid}"
