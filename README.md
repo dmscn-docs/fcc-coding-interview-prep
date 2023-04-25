@@ -51,7 +51,7 @@ but they're a great way for employers to see how you might perform on the job. [
 | Projects (Column 1)                                                                                                          | Projects (Column 2)                                  |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | [Show the Local Weather](https://wesleydmscn.github.io/fcc-coding-interview-prep/take-home-projects/show-the-local-weather/) | P2P Video Chat Application                           |
-| Build a Wikipedia Viewer                                                                                                     | Show National Contiguity with a Force Directed Graph |
+| [Build a Wikipedia Viewer](https://wesleydmscn.github.io/fcc-coding-interview-prep/take-home-projects/wikipedia-viewer/)     | Show National Contiguity with a Force Directed Graph |
 | Use the Twitch JSON API                                                                                                      | Map Data Across the Globe                            |
 | Build an Image Search Abstraction Layer                                                                                      | Manage a Book Trading Club                           |
 | Build a Tic Tac Toe Game                                                                                                     | Build a Pinterest Clone                              |
