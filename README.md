@@ -50,12 +50,6 @@ that you may not yet be familiar with. [fcc]
 | Perform a Subset Check on Two Sets of Data                                      | Remove Elements from a Linked List by Index       | Delete a Node with One Child in a Binary Search Tree        | Depth-First Search                                      |
 | Create and Add to Sets in ES6                                                   | Add Elements at a Specific Index in a Linked List |                                                             |                                                         |
 
-## Rosetta Code
-There are a total of 160 exercises and so that the readme file is not too long,
-I will separate this section into a table and a separate file for better organization of the content.
-
-[**Click here to access the Rosetta Code exercises** 😄](rosetta-code.md)
-
 ## Take Home Projects
 Programming interviews have always been stressful. Job applicants are sometimes given a take home project
 to be completed outside of the interview. These types of interviews usually require a lot of work,
@@ -74,4 +68,8 @@ but they're a great way for employers to see how you might perform on the job. [
 | Build the Game of Life                                                                                                       | Build a Pong Game                                    |
 | Build a Roguelike Dungeon Crawler Game                                                                                       | Build a Light-Bright App                             |
 
----
+## Rosetta Code
+There are a total of 160 exercises and so that the readme file is not too long,
+I will separate this section into a table and a separate file for better organization of the content.
+
+[**Click here to access the Rosetta Code exercises** 😄](rosetta-code.md)
