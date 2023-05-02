@@ -32,10 +32,23 @@ These algorithms are frequently used in job interviews to test a candidate's ski
 | Implement Bubble Sort                                                        | Implement Binary Search  |
 
 ## Data Structures
-There are a total of 46 contents, so that this readme file is not too long,
-I will separate this section in a table and in a separate file for better organization of the contents.
+These free programming courses are meant to help you deal with large and complex data structures
+that you may not yet be familiar with. [fcc]
 
-[**Click here to access the Data Structures content** 😄](data-structures.md)
+| Content (Column 1)                                                              | Content (Column 2)                                | Content (Column 3)                                          | Content (Column 4)                                      |
+| ------------------------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------- |
+| [Typed Arrays](data-structures/typed-arrays.js)                                 | Remove items from a set in ES6                    | Create a Doubly Linked List                                 | Delete a Node with Two Children in a Binary Search Tree |
+| [Learn how a Stack Works](data-structures/learn-how-stack-works.js)             | Use .has and .size on an ES6 Set                  | Reverse a Doubly Linked List                                | Invert a Binary Tree                                    |
+| [Create a Stack Class](data-structures/create-stack-class.js)                   | Use Spread and Notes for ES5 Set() Integration    | Add a New Element to a Binary Search Tree                   | Create a Trie Search Tree                               |
+| [Create a Queue Class](data-structures/create-queue-class.js)                   | Create a Map Data Structure                       | Find the Minimum and Maximum Value in a Binary Search Tree  | Insert an Element into a Max Heap                       |
+| [Create a Priority Queue Class](data-structures/create-priority-queue-class.js) | Create an ES6 JavaScript Map                      | Check if an Element is Present in a Binary Search Tree      | Remove an Element from a Max Heap                       |
+| Create a Circular Queue                                                         | Create a Hash Table                               | Check if Tree is Binary Search Tree                         | Implement Heap Sort with a Min Heap                     |
+| Create a Set Class                                                              | Work with Nodes in a Linked List                  | Find the Minimum and Maximum Height of a Binary Search Tree | Adjacency List                                          |
+| Perform a Union on Two Sets                                                     | Create a Linked List Class                        | Use Depth First Search in a Binary Search Tree              | Adjacency Matrix                                        |
+| Perform an Intersection on Two Sets of Data                                     | Remove Elements from a Linked List                | Use Breadth First Search in a Binary Search Tree            | Incidence Matrix                                        |
+| Perform a Difference on Two Sets of Data                                        | Search within a Linked List                       | Delete a Leaf Node in a Binary Search Tree                  | Breadth-First Search                                    |
+| Perform a Subset Check on Two Sets of Data                                      | Remove Elements from a Linked List by Index       | Delete a Node with One Child in a Binary Search Tree        | Depth-First Search                                      |
+| Create and Add to Sets in ES6                                                   | Add Elements at a Specific Index in a Linked List |                                                             |                                                         |
 
 ## Rosetta Code
 There are a total of 160 exercises and so that the readme file is not too long,
