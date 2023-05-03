@@ -6,7 +6,6 @@
     <a href="./algorithms">Algorithms</a> · 
     <a href="./data-structures">Data Structures</a> · 
     <a href="./rosetta-code">Rosetta Code</a> · 
-    <a href="./take-home-projects">Take Home Projects</a> · 
-    <a href="./LICENSE">License</a>
+    <a href="./take-home-projects">Take Home Projects</a>
   </p>
 </div>
