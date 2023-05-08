@@ -6,8 +6,8 @@ These algorithms are frequently used in job interviews to test a candidate's ski
 
 | Exercises                                                                    |
 | ---------------------------------------------------------------------------- |
-| [Find the Symmetric Difference](algorithms/find-the-symmetric-difference.js) |
-| [Inventory Update](algorithms/inventory-update.js)                           |
+| [Find the Symmetric Difference](find-the-symmetric-difference.js)            |
+| [Inventory Update](inventory-update.js)                                      |
 | No Repeats Please                                                            |
 | Pairwise                                                                     |
 | Implement Bubble Sort                                                        |
