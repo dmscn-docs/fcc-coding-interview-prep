@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/@phosphor-icons/web@2.0.3"></script>
+
+    <link rel="stylesheet" href="./css/global.css" />
+    <script src="./index.js" type="module" defer></script>
+
+    <title>Use the Twitch JSON API</title>
+  </head>
+  <body
+    class="min-h-screen flex flex-col items-center justify-center gap-10 bg-neutral-900"
+  >
+    <header class="mx-6 flex items-center gap-x-4 text-white sm:gap-x-6">
+      <h1 class="text-2xl font-medium sm:text-4xl">Twitch Streamers</h1>
+      <i class="ph ph-twitch-logo text-4xl sm:text-6xl"></i>
+    </header>
+
+    <main id="menu" class="hidden">
+      <nav class="w-fit rounded-t overflow-hidden z-10">
+        <ul class="flex text-neutral-300">
+          <li>
+            <button id="all" class="px-2 h-6 bg-neutral-700 text-sm">
+              All
+            </button>
+          </li>
+          <li>
+            <button id="online" class="px-2 h-6 bg-neutral-800 text-sm">
+              Online
+            </button>
+          </li>
+          <li>
+            <button id="offline" class="px-2 h-6 bg-neutral-800 text-sm">
+              Offline
+            </button>
+          </li>
+        </ul>
+      </nav>
+
+      <section
+        id="content"
+        class="-mt-0.5 p-4 grid gap-y-4 border-2 border-neutral-800 rounded z-0"
+      ></section>
+    </main>
+
+    <footer class="absolute right-8 bottom-8">
+      <a
+        class="text-sky-600"
+        href="https://github.com/wesleydmscn"
+        target="_blank"
+        >@wesleydmscn 😆
+      </a>
+    </footer>
+  </body>
+</html>
