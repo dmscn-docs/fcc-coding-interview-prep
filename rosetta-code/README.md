@@ -9,14 +9,14 @@ These challenges can prove to be difficult, but they will push your algorithm lo
 | 9 billion names of God the integer                     | Execute a Markov algorithm                                |
 | ABC Problem                                            | Execute Brain****                                         |
 | Abundant, deficient and perfect number classifications | Extensible prime generator                                |
-| Accumulator factory                                    | Factorial                                                 |
+| Accumulator factory                                    | [Factorial](factorial.js)                                 |
 | Ackermann function                                     | Factors of a Mersenne number                              |
 | Align columns                                          | Factors of an integer                                     |
 | Amicable pairs                                         | Farey sequence                                            |
 | Averages/Mode                                          | Fibonacci n-step number sequences                         |
 | Averages/Pythagorean means                             | Fibonacci sequence                                        |
 | Averages/Root mean square                              | Fibonacci word                                            |
-| Babbage problem                                        | FizzBuzz                                                  |
+| Babbage problem                                        | [FizzBuzz](fizzbuzz.js)                                   |
 | Balanced brackets                                      | Fractran                                                  |
 | Circles of given radius through two points             | Gamma function                                            |
 | Closest-pair problem                                   | Gaussian elimination                                      |
@@ -67,10 +67,10 @@ These challenges can prove to be difficult, but they will push your algorithm lo
 | Lucas-Lehmer test                                      | Sum digits of an integer                                  |
 | Ludic numbers                                          | Sum multiples of 3 and 5                                  |
 | Luhn test of credit card numbers                       | Sum of a series                                           |
-| Lychrel numbers                                        | Sum of squares                                            |
+| Lychrel numbers                                        | [Sum of squares](sum-of-squares.js)                       |
 | LZW compression                                        | Sum to 100                                                |
 | S-Expressions                                          | Sutherland-Hodgman polygon clipping                       |
-| Sailors, coconuts and a monkey problem                 | Symmetric difference                                      |
+| Sailors, coconuts and a monkey problem                 | [Symmetric difference](symmetric-difference.js)           |
 | Search a list of records                               | Taxicab numbers                                           |
 | SEDOLs                                                 | Tokenize a string with escaping                           |
 | Self Describing Numbers                                | Topological sort                                          |
