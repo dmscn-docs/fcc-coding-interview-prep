@@ -9,7 +9,7 @@ These algorithms are frequently used in job interviews to test a candidate's ski
 | [Find the Symmetric Difference](find-the-symmetric-difference.js) |
 | [Inventory Update](inventory-update.js)                           |
 | [No Repeats Please](no-repeats-please.js)                         |
-| Pairwise                                                          |
+| [Pairwise](pairwise.js)                                           |
 | Implement Bubble Sort                                             |
 | Implement Selection Sort                                          |
 | Implement Insertion Sort                                          |
